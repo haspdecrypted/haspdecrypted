@@ -1,5 +1,7 @@
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=your-github-haspdecrypted&color=blueviolet&style=plastic"/> </p>
 
- <p align="center"> <img src="https://media.giphy.com/media/Zmf45OJrZeu7roz4xA/giphy.gif" alt="Hi!!"/> </p> 
+
+<p align="center"> <img src="https://media.giphy.com/media/Zmf45OJrZeu7roz4xA/giphy.gif" alt="Hi!!"/> </p> 
 <h3 align="center">I’m @haspdecrypted </h3> 
 
 ---
