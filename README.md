@@ -31,7 +31,7 @@
 
 🛠️ **Tools Woked On**
 
-Hadoop || HDFS || Map Reduce || Spark || Sqoop || Oozie || YARN || Zookeeper || PySpark || SparkSQL || Hive
+Hadoop || HDFS || Map Reduce || Spark || Sqoop || Oozie || YARN || Zookeeper || PySpark || SparkSQL || Hive || WinSCP || Putty
 
 ---
 
