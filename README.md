@@ -42,15 +42,6 @@ Hadoop || HDFS || Map Reduce || Spark || Sqoop || Oozie || YARN || Zookeeper || 
 
 ---
 
-📕 **Latest Blog Posts**
-<!-- BLOG-POST-LIST:START -->
-- [Projects in C ](https://haspdecrypted-c.blogspot.com/2021/01/projects-in-c.html)
-- [Some Extra problems and resources on C ](https://haspdecrypted-c.blogspot.com/2021/01/some-extra-problems-and-resources-on-c.html)
-- [Memory Operations in C ](https://haspdecrypted-c.blogspot.com/2021/01/memory-operations-in-c.html)
-- [Recursion in C ](https://haspdecrypted-c.blogspot.com/2021/01/recursion-in-c.html)
-- [Pointers in C ](https://haspdecrypted-c.blogspot.com/2021/01/pointers-in-c.html)
-<!-- BLOG-POST-LIST:END -->
-
 
 
 
