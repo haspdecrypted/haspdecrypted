@@ -9,7 +9,10 @@
 <p align="center"> 👀 I’m interested in ...Data Science and all about Programming <br>
   ⚙️ Curently, I am employed as a Data engineer in an MNC listed in fortune 500 <br>
   🌱 I’m currently learning ... different ETL, BI tools and Cyber Security (as a hobby in my free time) <br>
-💞️ I’m looking to collaborate on ... Big Data Projects <br> </p>
+💞️ I’m looking to collaborate on ... Big Data Projects <br> 
+📽 My youtube channel - <img src="https://www.youtube.com/channel/UCwfQPuc-78OpCo45RXVF1Vg/featured" alt="HaspDecrypted Codes"/>
+</p>
+
 
 ---
 
