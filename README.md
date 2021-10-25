@@ -4,14 +4,13 @@
 <p align="center"> <img src="https://media.giphy.com/media/Zmf45OJrZeu7roz4xA/giphy.gif" alt="Hi!!"/> </p> 
 <h3 align="center">I’m @haspdecrypted </h3> 
 
----
+
 
 <p align="center"> 👀 I’m interested in ...Data Science and all about Programming <br>
   ⚙️ Curently, I am employed as a Data engineer in an MNC listed in fortune 500 <br>
   🌱 I’m currently learning ... different ETL, BI tools and Cyber Security (as a hobby in my free time) <br>
 💞️ I’m looking to collaborate on ... Big Data Projects <br> 
 </p>
-
 
 ---
 
@@ -44,9 +43,27 @@ Hadoop || HDFS || Map Reduce || Spark || Sqoop || Oozie || YARN || Zookeeper || 
 
 ---
 
+🔗 **Connect with me**
+<p align="left">
+  
+<a href="https://twitter.com/googlehumai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="haspdecrypted" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shubham-sen-gupta-932297178/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haspdecrypted" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16850086/haspdecrypted?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="haspdecrypted" height="30" width="40" /></a>
 
+---
 
+📊 **My GitHub Stats**
 
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=haspdecrypted&show_icons=true&theme=gotham" alt="haspdecrypted" /> 
+</p>
+
+---
+
+🔝 **Top Languages**
+
+  <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haspdecrypted&layout=compact&theme=buefy&hide_border=true"/>
+  
+  
 <!---
 haspdecrypted/haspdecrypted is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
