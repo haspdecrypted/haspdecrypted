@@ -10,7 +10,6 @@
   ⚙️ Curently, I am employed as a Data engineer in an MNC listed in fortune 500 <br>
   🌱 I’m currently learning ... different ETL, BI tools and Cyber Security (as a hobby in my free time) <br>
 💞️ I’m looking to collaborate on ... Big Data Projects <br> 
-📽 My youtube channel - [HaspDecrypted Codes](https://www.youtube.com/channel/UCwfQPuc-78OpCo45RXVF1Vg/featured) <br>
 </p>
 
 
