@@ -62,7 +62,11 @@ Hadoop || HDFS || Map Reduce || Spark || Sqoop || Oozie || YARN || Zookeeper || 
 🔝 **Top Languages**
 
   <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haspdecrypted&layout=compact&theme=buefy&hide_border=true"/>
+
+---
+📈 **Contribution Graph**
   
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=haspdecrypted&theme=react-dark&hide_border=true&area=true)
   
 <!---
 haspdecrypted/haspdecrypted is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
