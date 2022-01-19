@@ -46,7 +46,7 @@ Hadoop || HDFS || Map Reduce || Spark || Sqoop || Oozie || YARN || Zookeeper || 
 🔗 **Connect with me**
 <p align="left">
   
-<a href="https://twitter.com/googlehumai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="haspdecrypted" height="30" width="40" /></a>
+<a href="https://twitter.com/Shubhamspeakz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="haspdecrypted" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/shubham-sen-gupta-932297178/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haspdecrypted" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16850086/haspdecrypted?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="haspdecrypted" height="30" width="40" /></a>
 
