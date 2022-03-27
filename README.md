@@ -6,10 +6,10 @@
 
 
 
-<p align="center"> 👀 I’m interested in ...Data Science and all about Programming <br>
-  ⚙️ Curently, I am employed as a Data engineer in an MNC listed in fortune 500 <br>
-  🌱 I’m currently learning ... different ETL, BI tools and Cyber Security (as a hobby in my free time) <br>
-💞️ I’m looking to collaborate on ... Big Data Projects <br> 
+<p align="center"> 👀 I’m interested in ...Data Science and Software Engineering <br>
+  ⚙️ Curently, working as a software engineer in an MNC listed in fortune 500 <br>
+  🌱 I’m currently learning and growing ... <br>
+💞️ I’m looking to collaborate on ... Big Data Projects and Java Projects <br> 
 </p>
 
 ---
