@@ -52,7 +52,7 @@ Hadoop || HDFS || Map Reduce || Spark || Sqoop || Oozie || YARN || Zookeeper || 
 
 ---
 
-📊 **My GitHub Stats**
+<!-- 📊 **My GitHub Stats**
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=haspdecrypted&show_icons=true&theme=gotham" alt="haspdecrypted" /> 
 </p>
@@ -64,6 +64,7 @@ Hadoop || HDFS || Map Reduce || Spark || Sqoop || Oozie || YARN || Zookeeper || 
   <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haspdecrypted&layout=compact&theme=buefy&hide_border=true"/>
 
 ---
+-->
 📈 **Contribution Graph**
   
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=haspdecrypted&theme=react-dark&hide_border=true&area=true)
