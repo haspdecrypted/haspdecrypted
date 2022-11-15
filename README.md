@@ -4,7 +4,7 @@
 
 - 💻 Part of a fortune 500 company working as SDE in Java Full Stack Dev. Visit my <a href="https://haspdecrypted.github.io/profile-master/"> Portfolio ❣️ </a>
 - 📊 Previously, a Data Engineer in some other fortune 500 company. Want to discover more ? then head out to my linkedin <a href="https://www.linkedin.com/in/haspdecrypted/"> Linkedin </a>
-- 💬 Ask me about anything [here](https://github.com/haspdecrypted/haspdecrypted/issues)
+- 💬 Ask me about anything [here](https://forms.gle/XMbH4NCn7TFugxSX9)
 
 | <a href="https://github.com/haspdecrypted/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=haspdecrypted&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Haspi's github stats" /></a> | <a href="https://github.com/haspdecrypted/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haspdecrypted&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
