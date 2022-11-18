@@ -1,6 +1,6 @@
 ![Blue White Geometric Business Blog Banner](https://user-images.githubusercontent.com/87247136/201926183-3d13549e-4846-4727-89be-531929cfbe3a.png)
 
-<p align="center"> I believe in TECH is for EVERYONE; yes, YOU TOO !! Visit my Blog <a href="https://hashnode.com/@haspdecrypted)"> haspdecrypted </a></p>
+<p align="center"> I believe in TECH is for EVERYONE; yes, YOU TOO !! Visit my Blog <a href="https://haspdecrypted.hashnode.dev/"> haspdecrypted </a></p>
 
 - 💻 Part of a fortune 500 company working as SDE in Java Full Stack Dev. Visit my <a href="https://haspdecrypted.github.io/profile-master/"> Portfolio ❣️ </a>
 - 📊 Previously, a Data Engineer in some other fortune 500 company. Want to discover more ? then head out to my linkedin <a href="https://www.linkedin.com/in/haspdecrypted/"> Linkedin </a>
