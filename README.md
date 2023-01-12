@@ -27,9 +27,6 @@
 | ------------- | ------------- |
 
 -->
-📈 **Contribution Graph**
-  
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=haspdecrypted&theme=react-dark&hide_border=true&area=true)
   
 <!---
 haspdecrypted/haspdecrypted is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
