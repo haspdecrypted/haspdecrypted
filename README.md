@@ -2,7 +2,7 @@
 
 <p align="center"> I believe in TECH is for EVERYONE; yes, YOU TOO !! Visit my Blog <a href="https://haspdecrypted.hashnode.dev/"> haspdecrypted </a></p>
 
-- 💻 Part of a fortune 500 company working as SDE in Java Full Stack Dev. Visit my <a href="https://haspdecrypted.github.io/profile-master/"> Portfolio ❣️ </a>
+- 💻 Part of a fortune 500 company working as Sr SDE in Java Full Stack Dev. Visit my <a href="https://haspdecrypted.github.io/profile-master/"> Portfolio ❣️ </a>
 - 📊 Previously, a Data Engineer in some other fortune 500 company. Want to discover more ? then head out to my linkedin <a href="https://www.linkedin.com/in/haspdecrypted/"> Linkedin </a>
 - 💬 Ask me about anything [here](https://forms.gle/XMbH4NCn7TFugxSX9)
 - Tech I use daily ✅
